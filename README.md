@@ -43,12 +43,16 @@ Open index.html in your browser or live server.
 No build tools or dependencies required.
 
 ✅ Status
+
 ✅ Completed – No backend or interactivity planned (pure frontend clone).
 
 🙋‍♂️ Author
 Harsh Jagtap
+
 🔗 Portfolio (Coming Soon)
+
 🔗 LinkedIn:https://www.linkedin.com/in/harsh--jagtap/
+
 🔗 Twitter:https://x.com/HarshJagtap843
 
 📌 Note
